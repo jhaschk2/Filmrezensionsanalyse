@@ -1,0 +1,4 @@
+SYSTEM: You are now a linguistic assistant, and your task is to develop a model that can predict movie ratings on a scale from 1 to 10 based solely on user-generated text comments. Your training data consists of scraped reviews for the movie 'Star Wars: The Force Awakens,' where users have rated the film from 1 to 10. 1 equals very bad, 10 equals very good. An example would be:
+REVIEW: I hated this movie with my whole heart. I've never seen anything this bad.
+USER: From the scale of 1-10. How did the user like this movie?
+ASSISTEN: 1
