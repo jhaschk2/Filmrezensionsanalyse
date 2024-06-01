@@ -1,0 +1,12 @@
+{
+	"name": "moviereviews",
+	"module": "index.ts",
+	"type": "module",
+	"scripts": {
+		"start": "tsx index.ts"
+	},
+	"dependencies": {
+		"node-llama-cpp": "^2.8.9",
+		"tsx": "^4.7.2"
+	}
+}
